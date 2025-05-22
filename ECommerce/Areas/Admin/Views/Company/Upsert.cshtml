@@ -1,0 +1,97 @@
+﻿@model Company
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+    <div class="card">
+    <div class="card-header">
+        <div class="p-2 mb-1">
+            <div class="row pb-1">
+@*                 @if(Model.Product.Id == null || Model.Product.Id==0)
+                {
+                    <h2 class="text-primary">Create Product</h2>
+                }
+                else
+                {
+                <h2 class="text-primary">Edit Product</h2>
+                } *@
+                <h2 class="text-primary">@(Model.Id == 0? "Create" : "Update") Company</h2>
+                
+               
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+         <form asp-action="Upsert" class="form" method="post" enctype="multipart/form-data" >
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <input asp-for="@Model.Id" hidden />
+             
+            <div>
+                <label asp-for="@Model.Name" class="control-label mb-1"></label>
+                <input asp-for="@Model.Name" class="form-control" />
+                <span asp-validation-for="@Model.Name" class="text-danger"></span>
+            </div>
+ 
+            
+            <div>
+                <label asp-for="@Model.PhoneNumber" class="control-label mb-1"></label>
+                <input asp-for="@Model.PhoneNumber" class="form-control" />
+                <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+            </div>
+
+             <div>
+                <label asp-for="@Model.StreetAddress" class="control-label mb-1"></label>
+                <input asp-for="@Model.StreetAddress" class="form-control" />
+                <span asp-validation-for="@Model.StreetAddress" class="text-danger"></span>
+            </div>
+
+             <div>
+                <label asp-for="@Model.City" class="control-label mb-1"></label>
+                <input asp-for="@Model.City" class="form-control" />
+                <span asp-validation-for="@Model.City" class="text-danger"></span>
+            </div>
+
+             <div>
+                <label asp-for="@Model.State" class="control-label mb-1"></label>
+                <input asp-for="@Model.State" class="form-control" />
+                <span asp-validation-for="@Model.State" class="text-danger"></span>
+            </div>
+
+             <div>
+                <label asp-for="@Model.PostalCode" class="control-label mb-1"></label>
+                <input asp-for="@Model.PostalCode" class="form-control" />
+                <span asp-validation-for="@Model.PostalCode" class="text-danger"></span>
+            </div>
+
+
+           
+
+            <div class="row">
+                <div class="col-6">
+                    @if (Model.Id == 0)
+                    {
+                        <input type="submit" value="Create" class="btn btn-primary mt-3" />
+                    }
+                    else 
+                    {
+                    <input type="submit" value="Update" class="btn btn-primary mt-3" />
+                    }
+                   
+                    
+                </div>
+               
+                <div class="text-end col-6 mt-3">
+                    <a asp-controller="Company" asp-action="Index"> Back To List </a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+    </div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

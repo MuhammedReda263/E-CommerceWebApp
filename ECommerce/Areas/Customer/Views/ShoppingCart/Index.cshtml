@@ -1,0 +1,57 @@
+﻿<div class="container py-5">
+    <div class="card shadow-lg">
+        <div class="card-header bg-gradient text-white" style="background-color:aquamarine;">
+            <h5 class="mb-0">Shopping Cart</h5>
+        </div>
+
+        <div class="card-body">
+            <a href="/" class="btn btn-outline-dark mb-4">CONTINUE SHOPPING</a>
+
+            <!-- Cart Item -->
+            <div class="row align-items-center text-start border-top pt-3">
+                <div class="col-md-2">
+                    <img src="https://via.placeholder.com/600x400" alt="Product Image" class="img-fluid rounded shadow-sm">
+                </div>
+
+                <div class="col-md-4">
+                    <h6 class="fw-bold text-uppercase mb-1">TITLE</h6>
+                    <p class="text-muted mb-1">Description</p>
+                </div>
+
+                <div class="col-md-3 d-flex justify-content-center align-items-center">
+                    <div class="input-group input-group-sm" style="width: 120px;">
+                        <button class="btn btn-outline-secondary" type="button">-</button>
+                        <input type="text" class="form-control text-center" value="1">
+                        <button class="btn btn-outline-secondary" type="button">+</button>
+                    </div>
+                </div>
+
+                <div class="col-md-1 text-center">
+                    <span class="text-muted small">Price<br>x Count</span>
+                </div>
+
+                <div class="col-md-2 text-end">
+                    <button class="btn btn-danger">
+                        <i class="bi bi-trash"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Divider -->
+            <hr class="my-4">
+
+            <!-- Total -->
+            <div class="row align-items-center">
+                <div class="col-md-9 text-end">
+                    <h5 class="fw-bold">TOTAL (USD)</h5>
+                </div>
+                <div class="col-md-1 text-start">
+                    <h5 class="fw-bold">$$</h5>
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-dark w-100">SUMMARY</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

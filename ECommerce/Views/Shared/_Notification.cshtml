@@ -1,0 +1,19 @@
+﻿<!-- إضافة مكتبة jQuery -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<!-- إضافة مكتبة Toastr من CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+<script type="text/javascript">
+    // عرض إشعار نجاح إذا كان هناك بيانات في TempData["success"]
+    @if (TempData["success"] != null)
+    {
+        <text>toastr.success("@TempData["success"]");</text>
+    }
+
+    // عرض إشعار خطأ إذا كان هناك بيانات في TempData["error"]
+    @if (TempData["error"] != null)
+    {
+        <text>toastr.error("@TempData["error"]");</text>
+    }
+</script>

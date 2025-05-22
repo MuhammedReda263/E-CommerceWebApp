@@ -1,0 +1,85 @@
+﻿@model ShoppingCart
+<form asp-action="Details" method="post">
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+  @*           <div class="mt-5 p-4 bg-white border rounded shadow-sm text-center">
+                <h4 class="text-primary fw-bold mb-3">Cotton Candy Delight</h4>
+                <p class="text-muted mb-0">Indulge in the sweet, fluffy goodness of our exclusive Cotton Candy collection. Perfectly crafted to delight your senses and bring a touch of magic to your day!</p>
+            </div> *@
+            <!-- كارت المنتج -->
+            <div class="bg-light rounded shadow p-4 position-relative">
+
+                <div class="mt-2 mb-2 mb-10">
+                    <a asp-action="Index" class="btn btn-outline-dark btn-sm">Back To Home</a>
+                </div>
+         
+                <div class="row g-4">
+
+                    <!-- صورة المنتج -->
+                    <div class="col-md-5 text-center">
+                        <img src="@Model.Product.ImageUrl" alt="@Model.Product.Title" class="img-fluid rounded shadow-sm" style="height: 400px; object-fit: cover;" />
+
+                        <!-- زر Back To Home بمحاذاة نهاية الصورة -->
+                   
+                    </div>
+
+                    <!-- تفاصيل المنتج -->
+                    <div class="col-md-7">
+                        <h2 class="text-uppercase text-dark fw-bold">@Model.Product.Title</h2>
+                        <p class="text-muted mb-1">by <span class="fw-semibold text-primary">@Model.Product.Author</span></p>
+                        <span class="badge bg-warning text-dark mb-3">@Model.Product.Category.Name</span>
+
+                        <p class="text-muted">ISBN: <span class="fw-semibold">@Model.Product.ISBN</span></p>
+                        <p class="text-muted">List Price: <span class="text-decoration-line-through text-danger">$@Model.Product.ListPrice</span></p>
+
+                        <!-- جدول الأسعار -->
+                        <table class="table table-borderless w-auto">
+                            <thead>
+                                <tr class="text-center text-muted">
+                                    <th>Quantity</th>
+                                    <th>1-50</th>
+                                    <th>51-100</th>
+                                    <th>100+</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="text-center fw-semibold">
+                                    <td>Price</td>
+                                    <td class="text-success">${@Model.Product.Price}</td>
+                                    <td class="text-success">${@Model.Product.Price50}</td>
+                                    <td class="text-success">${@Model.Product.Price100}</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <!-- وصف المنتج -->
+                        <p class="text-muted">@Model.Product.Description</p>
+
+                        <!-- اختيار العدد وزر الإضافة -->
+                        <div class="row align-items-center mb-3">
+                            <div class="col-auto">
+                                <label class="fw-semibold">Count</label>
+                            </div>
+                            <input asp-for="ProductId" hidden />
+                            <input asp-for="Id" value="" hidden />
+                            <div class="col-auto">
+                                <input type="number" asp-for ="Count" value="1" min="1" class="form-control w-75" />
+                            </div>
+                        </div>
+
+                        <!-- زر Add to Cart أصغر -->
+                        <button class="btn btn-secondary w-50">
+                            ADD TO CART
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- قسم Cotton Candy -->
+           
+
+        </div>
+    </div>
+</div>
+</form>
