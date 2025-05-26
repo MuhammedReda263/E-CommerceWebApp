@@ -22,7 +22,7 @@ namespace ECommerce.DataAccess.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder); // Should with IdentityDbContext
+            base.OnModelCreating(modelBuilder); // Should be with IdentityDbContext
             modelBuilder.Entity<Category>().HasData(
                 new Category {Id = 1,  Name = "Scifi", DisplayOrder =1}, 
                 new Category {Id = 2 , Name = "History" , DisplayOrder =2},

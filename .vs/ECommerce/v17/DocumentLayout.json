@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\shoppingcart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\shoppingcart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\admin\\controllers\\companycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\admin\\controllers\\companycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D05CF853-9C27-4CC7-B96F-55188A8C1356}|ECommerce.Models\\ECommerce.Models.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce.models\\shoppingcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{D05CF853-9C27-4CC7-B96F-55188A8C1356}|ECommerce.Models\\ECommerce.Models.csproj|solutionrelative:ecommerce.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./E_Commerce/True/SqlTable/dbo.ShoppingCarts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -56,14 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{874C0964-7CD9-4211-96C8-CBCE8C12C7F0}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E457B5C3-5572-485F-A245-3F3A84F870FC}|ECommerce.DataAccess\\ECommerce.DataAccess.csproj|d:\\courses\\02 c#\\10 mvc project\\ecommerce\\ecommerce.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,19 +130,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "summary.cshtml",
+              "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\summary.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\summary.cshtml",
+              "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\summary.cshtml*",
+              "RelativeToolTip": "ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\summary.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwD0AAADQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T02:21:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyController .cs",
+              "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Admin\\Controllers\\CompanyController .cs",
+              "RelativeDocumentMoniker": "ECommerce\\Areas\\Admin\\Controllers\\CompanyController .cs",
+              "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Admin\\Controllers\\CompanyController .cs",
+              "RelativeToolTip": "ECommerce\\Areas\\Admin\\Controllers\\CompanyController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T00:17:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ECommerce.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:57:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce\\Program.cs",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Program.cs",
               "RelativeToolTip": "ECommerce\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T01:25:23.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -142,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ShoppingCard.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.Models\\ShoppingCard.cs",
               "RelativeDocumentMoniker": "ECommerce.Models\\ShoppingCard.cs",
@@ -154,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "ShoppingCartVM.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
               "RelativeDocumentMoniker": "ECommerce.Models\\ViewModels\\ShoppingCartVM.cs",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ECommerce\\Views\\Shared\\_Layout.cshtml",
@@ -178,15 +229,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "ECommerce\\Areas\\Customer\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T22:38:37.252Z"
+              "WhenOpened": "2025-05-12T22:38:37.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -196,26 +248,27 @@
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Controllers\\ShoppingCartController.cs",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "ECommerce\\Areas\\Customer\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T22:38:08.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ECommerce\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:31:50.495Z"
+              "WhenOpened": "2025-05-12T22:31:50.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\Repository.cs",
@@ -227,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "dbo.ShoppingCarts.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/./E_Commerce/True/SqlTable/dbo.ShoppingCarts.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/./E_Commerce/True/SqlTable/dbo.ShoppingCarts.sql",
@@ -236,43 +289,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ECommerce\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T19:01:12.833Z"
+              "WhenOpened": "2025-05-12T19:01:12.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ECommerce\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAwC0AAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T18:48:21.198Z"
+              "WhenOpened": "2025-05-12T18:48:21.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "ECommerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "ToolTip": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "ECommerce\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-12T18:41:06.9Z"
+              "WhenOpened": "2025-05-12T18:41:06.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ApplicationUserRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ApplicationUserRepository.cs",
@@ -284,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IApplicationUserRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
@@ -296,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\UnitOfWork.cs",
@@ -308,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
@@ -320,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "ShoppingCartRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\ShoppingCartRepository.cs",
@@ -332,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IRepository.cs",
@@ -344,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "IProductRepository .cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository .cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IProductRepository .cs",
@@ -356,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
@@ -368,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ICompanyRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
@@ -380,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IShoppingCartRepository.cs",
               "DocumentMoniker": "D:\\Courses\\02 C#\\10 MVC Project\\ECommerce\\ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
               "RelativeDocumentMoniker": "ECommerce.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",

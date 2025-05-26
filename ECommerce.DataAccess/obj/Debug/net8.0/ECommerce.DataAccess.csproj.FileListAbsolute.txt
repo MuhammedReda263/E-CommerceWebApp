@@ -17,3 +17,4 @@ D:\Courses\02 C#\10 MVC Project\ECommerce\ECommerce.DataAccess\obj\Debug\net8.0\
 D:\Courses\02 C#\10 MVC Project\ECommerce\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.pdb
 D:\Courses\02 C#\10 MVC Project\ECommerce\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.genruntimeconfig.cache
 D:\Courses\02 C#\10 MVC Project\ECommerce\ECommerce.DataAccess\obj\Debug\net8.0\ref\ECommerce.DataAccess.dll
+D:\Courses\02 C#\10 MVC Project\ECommerce\ECommerce.DataAccess\obj\Debug\net8.0\ECommerce.DataAccess.sourcelink.json
